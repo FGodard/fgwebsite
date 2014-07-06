@@ -1,7 +1,2 @@
-
-
-
-
-
 <?php
-echo date("");
+echo "Hello it's ".date("H:i:s");
