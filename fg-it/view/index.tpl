@@ -1,8 +1,14 @@
-<html>
+<html lang="{$languageCode}">
   <head>
-    <title>Smarty</title>
+    <title>{$title}</title>
+    <script type="text/javascript" src="./view/js/fg.js"> </script>
+    <link rel="stylesheet" href="./view/css/fg.css" type="text/css">
   </head>
   <body>
-    Hello, {$name}!
+	  <div>
+		  <p>
+		  
+		  </p>
+	  </div>
   </body>
 </html>
