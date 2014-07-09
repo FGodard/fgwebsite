@@ -69,7 +69,7 @@ class DATABASE_CONFIG {
 		'persistent' => false,
 		'host' => 'sql2.olympe.in',
 		'login' => 'q324nmbn',
-		'password' => 'Droopy93',
+		'password' => 'password',
 		'database' => 'q324nmbn',
 		'prefix' => '',
 		//'encoding' => 'utf8',
